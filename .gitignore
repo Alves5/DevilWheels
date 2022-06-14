@@ -9,9 +9,8 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Mm]emoryCaptures/
-/[Aa]ssets/Scenes/juego2.unity
-/[Aa]ssets/Scenes/juego2.unity.meta
-
+/Assets/Scenes/Juego2.unity
+/Assets/Scenes/Juego2.unity
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
